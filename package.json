@@ -1,0 +1,12 @@
+{
+  "name": "bookmarks-separator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://ozgrozer@github.com/ozgrozer/bookmarks-separator.git",
+  "author": "ozgrozer <ozgr@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pureimage": "^0.1.6"
+  }
+}
